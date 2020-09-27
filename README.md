@@ -1,2 +1,2 @@
 # Coursera
-This is the program I have written to complete my course on coursera.
+This repository contains all the codes I have written to complete my various courses on Coursera.
