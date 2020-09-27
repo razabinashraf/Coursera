@@ -1,0 +1,6 @@
+str=open('todo.txt')
+sr=str.read()
+print(sr)
+print(len(sr))
+print(sr[:20])
+input()
